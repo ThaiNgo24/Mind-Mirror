@@ -1,0 +1,13 @@
+# Thư viện cài qua npm/yarn
+BE/node_modules/
+
+# Log
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+
+# File hệ thống
+.DS_Store
